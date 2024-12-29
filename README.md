@@ -1,4 +1,4 @@
-Hello! I'm currently an undergraduate at UT Arlington studying CS.  
+Hello! I'm currently an MS studentt at UT Arlington studying CS.  
 Here are some of the activities I'm involved in:  
 - Experimental High Energy Physics with the ATLAS Experiment @ CERN  
 - Machine learning / Computer vision researcher  
